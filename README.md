@@ -4,7 +4,7 @@ This project forms part of the C7084 Assignment.
 
 Link to Github Respoitory https://github.com/FlorenceGalliers/big-data
 
-Files in Repository:
+Guide to Repository:
 - [data-preparation.R](./data-preparation.R) contains R code for extracting climate and land use data for the observation points and pulling it together into one dataset.
 - [bigdata-assignment.R](./bigdata-assignment.R) contains all R code for EDA and analysis using the Spark framework.
 
@@ -19,4 +19,7 @@ Files in Repository:
 - **plots** folder has all of the plots and images contained in the report.
 - **grid_data** series of .csv files containing count data (this is aggregated in "grid.csv"
 - **data** folder contains all raw climate data (tas, tasmin, tasmax, rainfall and hurs) and land use data for every year 2001-2019.
- 
+
+**Objectives** of this study are to assess (1) which environmental variables are most influential on the number of bird observations and (2) if GBIF observation data is in agreement with other, more structured sources of species data, in particular for species featured on the Red List.
+
+
