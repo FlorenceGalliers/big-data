@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Apr 14 23:41:06 BST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0178-d28b-93e3-00000cac5d78 
+on database directory memory:/Users/florentinagalliers/Google Drive/Harper/8-C7084/assignment/big-data/databaseName=metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@1d4b5e0b 
+Loaded from file:/Users/florentinagalliers/spark/spark-2.3.3-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_281-b09
+user.dir=/Users/florentinagalliers/Google Drive/Harper/8-C7084/assignment/big-data
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
