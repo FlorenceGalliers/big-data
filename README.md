@@ -4,6 +4,8 @@ This project forms part of the C7084 Assignment.
 
 Link to Github Respoitory https://github.com/FlorenceGalliers/big-data
 
+![treesparrow.jpeg](./plots/treesparrow.jpeg)
+
 Guide to Repository:
 - [data-preparation.R](./data-preparation.R) contains R code for extracting climate and land use data for the observation points and pulling it together into one dataset.
 - [bigdata-assignment.R](./bigdata-assignment.R) contains all R code for EDA and analysis using the Spark framework.
@@ -22,4 +24,6 @@ Guide to Repository:
 
 **Objectives** of this study are to assess (1) which environmental variables are most influential on the number of bird observations and (2) if GBIF observation data is in agreement with other, more structured sources of species data, in particular for species featured on the Red List.
 
+Tree Sparrow Observations in the UK, 2001 - 2019
+![pm_plot.png](./plots/pm_plot.png)
 
